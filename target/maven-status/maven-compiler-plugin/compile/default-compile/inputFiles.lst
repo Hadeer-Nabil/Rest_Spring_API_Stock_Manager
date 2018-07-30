@@ -1,0 +1,11 @@
+/Users/Hadeer/Development/Final_Task/Task_Rest_Spring_API/src/main/java/com/hadeer/nabil/stockmanger/control/StockController.java
+/Users/Hadeer/Development/Final_Task/Task_Rest_Spring_API/src/main/java/com/hadeer/nabil/stockmanger/dto/StockQueryDTO.java
+/Users/Hadeer/Development/Final_Task/Task_Rest_Spring_API/src/main/java/com/hadeer/nabil/stockmanger/service/impl/StockServiceImpl.java
+/Users/Hadeer/Development/Final_Task/Task_Rest_Spring_API/src/main/java/com/hadeer/nabil/stockmanger/config/SwaggerConfig.java
+/Users/Hadeer/Development/Final_Task/Task_Rest_Spring_API/src/main/java/com/hadeer/nabil/stockmanger/dto/StockDTO.java
+/Users/Hadeer/Development/Final_Task/Task_Rest_Spring_API/src/main/java/com/hadeer/nabil/stockmanger/StockMangerApplication.java
+/Users/Hadeer/Development/Final_Task/Task_Rest_Spring_API/src/main/java/com/hadeer/nabil/stockmanger/dao/StockRepository.java
+/Users/Hadeer/Development/Final_Task/Task_Rest_Spring_API/src/main/java/com/hadeer/nabil/stockmanger/dto/SoldProductDTO.java
+/Users/Hadeer/Development/Final_Task/Task_Rest_Spring_API/src/main/java/com/hadeer/nabil/stockmanger/service/StockService.java
+/Users/Hadeer/Development/Final_Task/Task_Rest_Spring_API/src/main/java/com/hadeer/nabil/stockmanger/dto/StockStatisticsQueryDTO.java
+/Users/Hadeer/Development/Final_Task/Task_Rest_Spring_API/src/main/java/com/hadeer/nabil/stockmanger/model/Stock.java

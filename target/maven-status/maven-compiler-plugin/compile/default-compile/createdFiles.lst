@@ -1,0 +1,16 @@
+com/hadeer/nabil/stockmanger/dto/StockStatisticsQueryDTO.class
+com/hadeer/nabil/stockmanger/dto/StockDTO.class
+com/hadeer/nabil/stockmanger/dto/StockQueryDTO.class
+com/hadeer/nabil/stockmanger/dto/SoldProductDTO.class
+com/hadeer/nabil/stockmanger/model/Stock.class
+com/hadeer/nabil/stockmanger/dao/StockRepository.class
+com/hadeer/nabil/stockmanger/service/StockService.class
+com/hadeer/nabil/stockmanger/StockMangerApplication.class
+com/hadeer/nabil/stockmanger/control/StockController.class
+com/hadeer/nabil/stockmanger/service/impl/StockServiceImpl.class
+com/hadeer/nabil/stockmanger/dto/StockQueryDTO$StockQueryDTOBuilder.class
+com/hadeer/nabil/stockmanger/dto/SoldProductDTO$SoldProductDTOBuilder.class
+com/hadeer/nabil/stockmanger/model/Stock$StockBuilder.class
+com/hadeer/nabil/stockmanger/dto/StockStatisticsQueryDTO$StockStatisticsQueryDTOBuilder.class
+com/hadeer/nabil/stockmanger/dto/StockDTO$StockDTOBuilder.class
+com/hadeer/nabil/stockmanger/config/SwaggerConfig.class
