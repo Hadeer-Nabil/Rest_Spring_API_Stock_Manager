@@ -11,7 +11,7 @@ should be used only for the first run of and this line "spring.jpa.hibernate.ddl
 should be commented in application.properties because this will create every time the app 
 runs a new DB and the old records will be deleted
 
-#Running the app
+# Running the app
 
 1)Run Docker
 
@@ -26,7 +26,7 @@ the app
 The endpoints will be listed by swagger documentation
 
 
-#Technologies used
+# Technologies used
 
 Java 1.8
 Spring MVC with Spring Boot
